@@ -1,0 +1,25 @@
+.lead {
+  min-height: 1005px;
+  margin: 0 auto;
+  margin-bottom: 92px;
+}
+
+@media (max-width: 1279px) {
+  .lead {
+    min-height: 962px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .lead {
+    min-height: 862px;
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width: 767px) {
+  .lead {
+    min-height: 406px;
+    margin-bottom: 64px;
+  }
+}

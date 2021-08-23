@@ -1,0 +1,10 @@
+.place__row-two {
+  display: flex;
+  max-width: 100%;
+}
+
+@media (max-width: 767px) {
+  .place__row-two {
+    flex-direction: column;
+  }
+}

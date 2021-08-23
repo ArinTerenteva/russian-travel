@@ -1,0 +1,19 @@
+.place {
+  max-width: 984px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  margin-bottom: 80px;
+}
+
+@media (max-width: 1023px) {
+  .place {
+    margin-bottom: 73px;
+  }
+}
+
+@media (max-width: 767px) {
+  .place {
+    margin-bottom: 50px;
+  }
+}

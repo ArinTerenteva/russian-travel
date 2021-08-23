@@ -1,0 +1,20 @@
+.page__section_cover {
+}
+
+@media (max-width: 1279px) {
+  .page__section_cover {
+    padding: 0;
+  }
+}
+
+@media (max-width: 1023px) {
+  .page__section_cover {
+    padding: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .page__section_cover {
+    padding: 0;
+  }
+}
