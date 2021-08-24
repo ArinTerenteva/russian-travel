@@ -1,9 +1,8 @@
-.li {
+.footer__li {
   margin-right: 18px;
   list-style-type: none;
 }
 
-.li:last-of-type {
+.footer__li:last-of-type {
   margin-right: 0;
 }
-
