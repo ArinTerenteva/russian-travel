@@ -21,7 +21,5 @@
 @media (max-width: 767px) {
   .place__website {
     margin: 0;
-    max-width: 288px;
-    padding: 0 16px 0 16px;
   }
 }

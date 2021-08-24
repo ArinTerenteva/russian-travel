@@ -21,6 +21,6 @@
 @media (max-width: 767px) {
   .place__image {
     margin-bottom: 32px;
-    width: 100%;
+    max-width: 320px;
   }
 }
