@@ -1,11 +1,16 @@
 .lead {
   margin: 0 auto;
   margin-bottom: 92px;
+  padding: 0 48px;
+  max-width: 1080px;
+  box-sizing: border-box;
+  transition: padding 0.8s;
 }
 
 @media (max-width: 1023px) {
   .lead {
     margin-bottom: 88px;
+    padding: 0;
   }
 }
 

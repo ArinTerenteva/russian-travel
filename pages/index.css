@@ -2,11 +2,6 @@
 @import url(../vendor/fonts.css);
 
 @import url(../blocks/page/page.css);
-@import url(../blocks/page/__section/page__section.css);
-@import url(../blocks/page/__section/_narrow/page__section_narrow.css);
-@import url(../blocks/page/__section/_cover/page__section_cover.css);
-@import url(../blocks/page/__section/_intro/page__section_intro.css);
-@import url(../blocks/page/__section/_places/page__section_places.css);
 
 @import url(../blocks/link/link.css);
 @import url(../blocks/li/li.css);
